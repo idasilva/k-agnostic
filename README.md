@@ -1,1 +1,1 @@
-# eks-viewer
+# k-agnostic
